@@ -1,0 +1,4 @@
+copy lzmaLoader_shared intro_crunch
+lzma e intro -so >> intro_crunch
+delete Overw8-bits
+rename intro_crunch Overw8-bits
